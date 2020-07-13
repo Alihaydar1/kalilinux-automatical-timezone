@@ -17,23 +17,24 @@ Open the terminal and type following commands.
 
 ```bash
 - apt update
-```
-
-```bash
 - apt install git
+- git clone https://github.com/Alihaydar1/kalilinux-automatical-timezone.git
+
+
+
 ```
-- git clone https://github.com/rajkumardusad/Tool-X.git
-- cd Tool-X
-
-
-
 
 ## Usage
 
-```bash
+- ``` cd kalilinux-automatical-timezone/```
 
-- sudo cp time.desktop /usr/share/applications/
+- ``` sudo nano time.desktop ```
+and (change user "kali" to your user)
+and press ctrl+x then enter
+- ```sudo cp time.desktop /usr/share/applications/```
 
+- search about "time" in the menu 
+or in Usual Application  -->  system and click on time
 ```
 
 ## Contributing
