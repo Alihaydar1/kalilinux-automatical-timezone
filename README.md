@@ -32,6 +32,8 @@ and press ctrl+x then enter
 - search about "time" in the menu 
 or in Usual Application  -->  system and click on time
 
+<img src=“https://www.mediafire.com/view/mggd4bt9af0dvs9/menusearch.png/file”  style=“margin-right: 10px;”
+/>
 
 ## Social networks
  
