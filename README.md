@@ -17,21 +17,23 @@ Open the terminal and type following commands.
 
 ```bash
 - apt update
+```
+
+```bash
 - apt install git
+```
 - git clone https://github.com/rajkumardusad/Tool-X.git
 - cd Tool-X
 
 
-```
+
 
 ## Usage
 
-```python
-import foobar
+```bash
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+- sudo cp time.desktop /usr/share/applications/
+
 ```
 
 ## Contributing
@@ -41,5 +43,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
