@@ -36,11 +36,11 @@ or in Usual Application  -->  system and click on time
 
 ![](https://www.mediafire.com/convkey/250b/mnn600cauln2p3k6g.jpg)
 
-![](https://www.mediafire.com/convkey/1334/mggd4bt9af0dvs9zg.jpg)
+![](https://www.mediafire.com/convkey/13e5/p5w4gm3qrfmv65d6g.jpg)
 
-![](https://www.mediafire.com/convkey/1334/mggd4bt9af0dvs9zg.jpg)
+![](https://www.mediafire.com/convkey/be90/3yx6swf9ifx9vkr6g.jpg)
 
-![](https://www.mediafire.com/convkey/1334/mggd4bt9af0dvs9zg.jpg)
+![](https://www.mediafire.com/convkey/b8ba/u8ohq4hi7bh097q6g.jpg)
 
 ## Social networks
  
