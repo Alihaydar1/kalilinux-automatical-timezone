@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=time
 Comment=time
-Exec=/home/kali/Desktop/time.sh
+Exec=/kalilinux-automatical-timezone/time.sh
 Terminal=true
 Type=Application
 Icon=emblem-web
