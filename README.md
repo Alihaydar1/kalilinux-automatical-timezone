@@ -40,6 +40,8 @@ or in Usual Application  -->  system and click on time
 
 ![](https://www.mediafire.com/convkey/be90/3yx6swf9ifx9vkr6g.jpg)
 
+![](https://www.mediafire.com/convkey/ba5c/lqkrc8557k6rbb76g.jpg)
+
 ![](https://www.mediafire.com/convkey/b8ba/u8ohq4hi7bh097q6g.jpg)
 
 ## Social networks
