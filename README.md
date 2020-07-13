@@ -52,4 +52,5 @@ or in Usual Application  -->  system and click on time
 - youtube:
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU](gpl-3.0)
+
