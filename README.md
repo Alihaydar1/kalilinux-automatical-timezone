@@ -15,14 +15,10 @@ Project Linux - solve the problem of not being able to change the time zone  in 
 Open the terminal and type following commands.
 
 
-```bash
-- apt update
-- apt install git
-- git clone https://github.com/Alihaydar1/kalilinux-automatical-timezone.git
+- ```apt update```
+- ```apt install git```
+- ```git clone https://github.com/Alihaydar1/kalilinux-automatical-timezone.git```
 
-
-
-```
 
 ## Usage
 
@@ -35,7 +31,7 @@ and press ctrl+x then enter
 
 - search about "time" in the menu 
 or in Usual Application  -->  system and click on time
-```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
