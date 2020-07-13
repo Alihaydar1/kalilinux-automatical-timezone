@@ -52,5 +52,5 @@ or in Usual Application  -->  system and click on time
 - youtube:
 
 ## License
-[GNU] (gpl-3.0)
+[GNU](gpl-3.0)
 
